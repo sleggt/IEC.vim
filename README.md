@@ -1,5 +1,8 @@
 # IEC.vim
 
+Fork of IEC.vim, with intention of extending it with Logix5000 and Simotion
+specific additions.
+
 Vim mode for editing source code files for [IEC 61131-3](https://en.wikipedia.org/wiki/IEC_61131-3) textual programming languages: [Structured Text](https://en.wikipedia.org/wiki/Structured_text), [Instruction List](https://en.wikipedia.org/wiki/Instruction_list) and [Sequential Function Chart](https://en.wikipedia.org/wiki/Sequential_Function_Chart). This plugin is compatible with 2nd and 3rd editions of the Standard.
 
 # Screenshot
